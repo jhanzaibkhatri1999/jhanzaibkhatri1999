@@ -6,6 +6,8 @@
 - 📫 How to reach me: ...
 - jhanzeb.khatri1561@gmail.com
 
+<img alt="" src="gifforgit.gif"/>
+
 ### Connect With Me :
 <p>
 <a href="https://www.linkedin.com/in/jhanzaib-khatri-054122223/">
