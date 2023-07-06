@@ -1,5 +1,13 @@
 ### Hey Guys 👋, I'm Jhanzaib Khatri.!
 
+### Connect With Me :
+<a href="https://www.linkedin.com/in/jhanzaib-khatri-054122223/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 ### Languages And Tools
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge" />
