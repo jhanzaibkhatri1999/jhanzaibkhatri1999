@@ -44,7 +44,7 @@
 
 
 ### GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanzebkhatri1999&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanzaibkhatri1999&theme=radical)
 
 <!--
 **jhanzaibkhatri1999/jhanzaibkhatri1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
