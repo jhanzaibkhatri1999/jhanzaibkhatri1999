@@ -15,6 +15,13 @@
   />
 </a>
 
+<a href="https://www.instagram.com/jhanzaib_khatri1999/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 ### Languages And Tools
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=for-the-badge" />
