@@ -1,5 +1,7 @@
-### Hey Guys 👋, I'm Jhanzaib Khatri.!
+## Hey Guys 👋, I'm Jhanzaib Khatri.!
+#### A Passionate Flutter Developer And FrontEnd Webdeveloper 
 
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me: ...
 - jhanzeb.khatri1561@gmail.com
