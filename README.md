@@ -1,7 +1,7 @@
 ### Hey Guys 👋, I'm Jhanzaib Khatri.!
 
 ### Connect With Me :
-<a href="https://www.linkedin.com/in/jhanzaib-khatri-054122223/">
+<a href="https://www.linkedin.com/in/jhanzaib-khatri-054122223/" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
