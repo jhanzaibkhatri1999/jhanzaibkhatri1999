@@ -1,6 +1,7 @@
 ### Hey Guys 👋, I'm Jhanzaib Khatri.!
 
 ### Connect With Me :
+<p>
 <a href="https://www.linkedin.com/in/jhanzaib-khatri-054122223/">
   <img
     alt="Linkedin"
@@ -21,6 +22,7 @@
     src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"
   />
 </a>
+<p/>
 
 ### Languages And Tools
 <p>
